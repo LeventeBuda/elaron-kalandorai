@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import * as Component from "./quartz/components" // Ezt hozzáadtuk a head miatt
 
 /**
  * Quartz 4 Configuration
@@ -8,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Elaron Wiki",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -52,6 +53,19 @@ const config: QuartzConfig = {
         },
       },
     },
+    // --- LEAFLET KEZDETE ---
+    head: Component.Head({
+      scripts: [
+        {
+          src: "https://unpkg.com/leaflet@1.9.4/dist/leaflet.js",
+          loadTime: "beforeDOMReady",
+        },
+      ],
+      stylesheets: [
+        "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css",
+      ],
+    }),
+    // --- LEAFLET VÉGE ---
   },
   plugins: {
     transformers: [
@@ -66,7 +80,7 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: true }), // Engedélyezzük a HTML-t
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
@@ -88,7 +102,6 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
   },
