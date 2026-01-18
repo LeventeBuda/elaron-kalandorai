@@ -25,7 +25,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: 'npm' # Automatikusan kezeli a gyorsítótárat
       - name: Install Dependencies
         run: npm install # 'npm ci' helyett 'npm install' - ez elnézőbb a verziókkal
