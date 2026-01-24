@@ -33,4 +33,4 @@ A város biztonságáért a Vastövis Rend (Vaspáncélosok) felel. Szigorú ell
 - **Uralkodó:** Tharalda Zúzókezű Királynő.
 
 
-[[map.html?img=Atraxia.png]]
+[[map.html?img=Drakhal.jpg]]
