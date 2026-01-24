@@ -1,5 +1,5 @@
 
-# Elaron Kalandorai
+## Elaron Kalandorai
 
 Üdvözöllek Valtoris világában! Ez a Wiki a kampányunk központi tudástára. Itt minden információt megtalálsz a világról, a törvényekről és a rátok váró veszélyekről.
 
@@ -9,7 +9,7 @@ Valtoris jelenleg a bizonytalanság korát éli. A mágia visszatérése, amelye
 ## Navigáció
 A tudástár az alábbi főbb kategóriákra tagolódik:
 
-- [[01 - Bevezetés Valtoris Világába|Bevezetés]]: Általános áttekintés a jelenlegi helyzetről.
+- [[02 - Bevezetés Valtoris Világába|Bevezetés]]: Általános áttekintés a jelenlegi helyzetről.
 - [[11 - Valtoris Történelme|Krónikák]]: A múlt dicsősége és bukása.
 - Társadalom: [[21-1a Királyi Udvarok|Politika]], [[22 - Társadalmi Rend|társadalmi rend]] és a [[21-2a Kalandorok Céhe|Céhek]].
 - Világ: Régiók, országok és a rejtélyes Hasadékok.

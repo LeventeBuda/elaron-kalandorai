@@ -1,4 +1,4 @@
-Valtoris egy olyan földrész, amely éppen most ocsúdik fel egy évszázadokig tartó álomból. A mágia hiánya (a [[14 - A Csend Korszaka|A Csend Korszaka]]) megtanította az embereket a technológiára és a fizikai erőre támaszkodni, de az Új Ébredés mindent megváltoztatott.
+Valtoris egy olyan földrész, amely éppen most ocsúdik fel egy évszázadokig tartó álomból. A mágia hiánya ([[14 - A Csend Korszaka|A Csend Korszaka]]) megtanította az embereket a technológiára és a fizikai erőre támaszkodni, de az Új Ébredés mindent megváltoztatott.
 
 ## Az Új Valóság
 A világot ma a Hasadékok határozzák meg. Ezek nem csupán vizuális jelenségek, hanem kapuk egy másik, kaotikus síkra. 

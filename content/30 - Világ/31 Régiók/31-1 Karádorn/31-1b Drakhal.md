@@ -34,5 +34,4 @@ A város biztonságáért a Vastövis Rend (Vaspáncélosok) felel. Szigorú ell
 
 
 
-
-<iframe width="100%" height="800" src="https://leventebuda.github.io/elaron-kalandorai/Resources/map.html" frameborder="0"></iframe>
+<iframe src="http://localhost:5173/content/Resources/map.html?img=Drakhal.jpg" width="100%" height="600px"></iframe>
