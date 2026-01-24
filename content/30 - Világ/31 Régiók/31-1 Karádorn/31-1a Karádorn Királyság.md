@@ -35,9 +35,9 @@ Karádorn egy szigorú katonai hierarchiára épülő monarchia, ahol a hatalom 
 
 
 
-[[map.?img=Atraxia.png]]
+[[map?img=Atraxia.png]]
 
 
-[[map.?img=Drakhal.jpg]]
+[[map?img=Drakhal.jpg]]
 
 
