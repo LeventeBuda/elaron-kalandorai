@@ -32,3 +32,8 @@ Karádorn egy szigorú katonai hierarchiára épülő monarchia, ahol a hatalom 
 ## Gazdaság
 - **Export:** Drágakövek, nemesfémek, fegyverek és páncélok.
 - **Import:** Élelem és fa.
+
+
+
+[[map.html?img=Atraxia.png]]
+
