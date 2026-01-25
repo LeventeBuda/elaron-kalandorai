@@ -31,6 +31,6 @@ A rendet a Kán személyes gárdája, a Ködfalók tartják fenn. A büntetések
 ## Adatok
 - **Lakosság**: kb. 22.000 fő.
 - **Uralkodó**: Morvun Kán.
-- **Domináns fajok**: (A fajokat a kérésednek megfelelően most beszéljük meg).
+- **Domináns fajok**: Fél-ork (Half-Orc), Gyík-nép (Lizardfolk), Tiefling, Sárkányszülött (Black/Green Dragonborn), Ember (morvundi).
 
 [[map.html?img=Duskmire.jpg]]
