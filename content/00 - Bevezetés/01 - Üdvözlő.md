@@ -11,7 +11,7 @@ A tudástár az alábbi főbb kategóriákra tagolódik:
 
 - [[02 - Bevezetés Valtoris Világába|Bevezetés]]: Általános áttekintés a jelenlegi helyzetről.
 - [[11 - Valtoris Történelme|Krónikák]]: A múlt dicsősége és bukása.
-- Társadalom: [[21-1a Királyi Udvarok|Politika]], [[22 - Társadalmi Rend|társadalmi rend]] és a [[21-2a Kalandorok Céhe|Céhek]].
+- Társadalom: [[21-1a Királyi Udvarok|Politika]], [[23 - Társadalmi Rend|társadalmi rend]] és a [[21-2a Kalandorok Céhe|Céhek]].
 - Világ: Régiók ([[31-1a Karádorn Királyság|Karádorn]], [[31-2a Skarnheim Fejedelemség|Skarnheim]], [[31-3a Tharajani Birodalom|Tharjan]], [[31-4a Sylvandar Nemzetségei|Sylvander]], [[31-5a Morvund Királysága|Morvund]]) és a rejtélyes Hasadékok.
 - Mechanika: Egyedi szabályok és rendszerek.
 
