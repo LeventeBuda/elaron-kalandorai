@@ -29,4 +29,4 @@ A Hasadékokon túli környezet egy teljesen autonóm ökoszisztémát tart fenn
 - **Átjárhatósági protokoll**: A Hasadékokon való áthaladás fizikailag lehetséges. Belépés után a környezeti törvényszerűségek (atmoszférikus nyomás, fényviszonyok) jelentős eltérést mutathatnak a külső normáktól.
 
 
-![[GreenRift.png|400]]
+[[map.html?img=GreenRift.png]]
