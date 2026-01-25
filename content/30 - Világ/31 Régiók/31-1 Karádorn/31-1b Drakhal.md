@@ -31,6 +31,7 @@ A város biztonságáért a Vastövis Rend (Vaspáncélosok) felel. Szigorú ell
 ## Adatok
 - **Lakosság:** kb. 25.000 fő.
 - **Uralkodó:** Tharalda Zúzókezű Királynő.
+- **Domináns fajok:** Ember (karruni), Törp (Dwarf), Firbolg (hegyi klánok), Sas-nép (Aarakocra).
 
 
 [[map.html?img=Drakhal.jpg]]

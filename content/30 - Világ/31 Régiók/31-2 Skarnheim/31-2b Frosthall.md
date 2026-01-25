@@ -29,8 +29,8 @@ A város déli és délkeleti része. Vandraheim a vándorok és a kisebb kláno
 A város békéjét a Hóvihar Gárda vigyázza. A rendfenntartás alapja a skeldi becsületkódex. A súlyos bűnöket, mint a gyávaságot vagy az árulást, a város falain kívüli száműzetéssel büntetik, ami az északi vadonban a halállal egyenlő.
 
 ## Adatok
-- Lakosság: kb. 14.000 fő.
-- Uralkodó: Kaelir Nivarn Fejedelem.
-- Domináns fajok: Ember (skeldi), Goliath, Fél-ork.
+- **Lakosság:** kb. 14.000 fő.
+- **Uralkodó:** Kaelir Nivarn Fejedelem.
+- **Domináns fajok:** Ember (skeldi), Goliath, Tabaxi (hópárduc), Leonin (hegyi oroszlán).
 
 [[map.html?img=Frosthall.jpg]]

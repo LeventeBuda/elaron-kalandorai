@@ -16,7 +16,7 @@ Karádorn a kontinens északnyugati bástyája, a rend és az acél rendíthetet
 ## Politikai Berendezkedés
 Karádorn egy szigorú katonai hierarchiára épülő monarchia, ahol a hatalom az erőn, a fegyelmen és a technológiai fölényen alapul. A királynő szava döntő, de a Mérnökbárók és a katonai vezetők tanácsa jelentős befolyással bír a gazdasági döntésekre.
 
-*Részletes politikai leírás [[21-1b Karádorn|itt]] található.*
+*Részletes politikai leírás megtalálható [[21-1b Karádorn|itt]].*
 
 ## Vallás és Nyelv
 - **Főisten:** Zarakon, a Vasakarat és Igazság Istene.
