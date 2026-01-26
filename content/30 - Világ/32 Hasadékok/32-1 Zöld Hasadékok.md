@@ -11,10 +11,12 @@ A Zöld Hasadékok (köznyelvben Zöld Kapuk) Valtoris területén rögzített t
 ## Nyersanyagok és Erőforrások
 A Hasadékok belső terei olyan elemeket és vegyületeket tartalmaznak, amelyek a bázis-valóságban nem fordulnak elő természetes úton. Ezen anyagok kinyerése és kohászati elemzése a kortárs kutatások prioritása.
 
-### Dokumentált ércek és drágakövek:
-- **Mana kristály**: Áttetsző, zöldes szaturációjú kristályszerkezet, amely a Hasadékok belső környezetében nagy mennyiségben (gyakori előfordulással) fellelhető. Jelenleg ez a legalacsonyabb piaci értékű anyag a dokumentált leletek közül, mivel pontos felhasználási módja még kísérleti fázisban van. Az előzetes tesztelések azt mutatják, hogy bizonyos körülmények között (például mágikus rezonancia hatására) a kristály képes energiát leadni, ami felveti a lehetőséget, hogy a jövőben mechanikus szerkezetek vagy motorok üzemanyagaként szolgáljon. A kutatók egyelőre az energia stabil kinyerésének módszerein dolgoznak, mivel a kristály hajlamos a hirtelen kimerülésre vagy instabil impulzusok kibocsátására.
-- **Éjfél-érc**: Sajátos fénytörésű, extrém sötét fém, amely szinte teljesen elnyeli a beeső látható fényt. Kiemelkedő sűrűsége miatt az ebből készült eszközök tömege jelentős, ami korlátozza a viselő mozgási sebességét, cserébe viszont szinte áttörhetetlen szívósságot biztosít. 
-- **Rezgő-kő**: Opálos, halványan vibráló kőzet, amely képes elnyelni és átalakítani a környezetéből érkező kinetikus energiát (ütéseket, rezgéseket). Bányászata a kőzet instabilitása miatt rendkívül veszélyes és költséges folyamat: a tudományos közösségben komoly aggodalmat kelt a "telítődés" elmélete. Bár dokumentált eset még nincs rá, feltételezhető, hogy a túl sok energiát elnyelt kőzet egy kritikus ponton túl robbanásszerűen üríti ki a tárolt energiát.
+### Dokumentált ércek és drágakövek
+A Hasadékokban található anyagok fizikai és mágikus tulajdonságai kívül esnek a Valtorisi normákon. Kinyerésük magas kockázattal jár, de stratégiai fontosságúak.
+
+- **Mana kristály**: Gyakori, smaragdzöld energiacella. Jelenleg kísérleti üzemanyagként és mágikus katalizátorként vizsgálják; alacsony ára ellenére a jövő technológiájának alapköve lehet.
+- **Éjfél-érc**: Fényelnyelő, extrém sűrűségű sötét fém. Szinte áttörhetetlen védelmet nyújt, de hatalmas tömege drasztikusan korlátozza a viselő mozgékonyságát. (Nagyon ritka)
+- **Rezgő-kő**: Opálos kőzet, amely képes elnyelni és raktározni a kinetikus energiát. Robbanásveszélyes instabilitása miatt bányászata és használata is életveszélyes. (Legendás)
 
 
 ## Exobiológiai Megfigyelések
