@@ -3,7 +3,7 @@
 
 Valtoris világában a döntéseknek visszhangja van. A sors-kocka nem csupán a pontok gyűjtéséről szól: minden egyes dobás közvetlenül alakítja a pillanat hangulatát és a történet menetét. Egy siker is lehet baljóslatú, és egy kudarc is hordozhat magában váratlan reménysugarat.
 
----
+
 
 ## A sors megnyilvánulása
 
@@ -21,7 +21,7 @@ A sors-kockát akkor hívjuk segítségül, amikor a karakterek tetteinek **val�
         * *Siker esetén:* A célodat eléred, de a sikernek ára van, vagy baljós előjelek kísérik (pl. legyőzöd az ellenfelet, de a fegyvered megreped, vagy a kiáltásod felveri a környék figyelmét).
         * *Kudarc esetén:* A hiba súlyosabb következményekkel jár, vagy egy váratlan komplikáció nehezíti meg a helyzetedet.
 
----
+
 
 ## Kapacitás és Erőforrás-kezelés
 
@@ -30,7 +30,7 @@ A sors energiái végesek, a feszültség előbb-utóbb utat tör magának:
 * **Egyéni Hope Pool:** Maximum **5 Hope** pont / játékos.
 * **A GM Fear Tára:** Maximum **12 Fear** pont gyűlhet össze az árnyékokban.
 
----
+
 
 ## A Pontok Felhasználása
 
