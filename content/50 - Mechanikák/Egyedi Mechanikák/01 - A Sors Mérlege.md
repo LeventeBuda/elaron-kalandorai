@@ -5,7 +5,7 @@ Valtoris világában a döntéseknek visszhangja van. A sors-kocka nem csupán a
 
 ---
 
-### A sors megnyilvánulása
+## A sors megnyilvánulása
 
 A sors-kockát akkor hívjuk segítségül, amikor a karakterek tetteinek **valódi súlya van**, és a kimenetel messzebb mutathat a puszta számszerű sikernél. A D20 dönti el a tett fizikai sikerét, míg az 1d6 (a Sors-kocka) azt mutatja meg, milyen árat kér érte a világ, vagy milyen hátszelet ad a szerencse.
 
@@ -23,7 +23,7 @@ A sors-kockát akkor hívjuk segítségül, amikor a karakterek tetteinek **val�
 
 ---
 
-### Kapacitás és Erőforrás-kezelés
+## Kapacitás és Erőforrás-kezelés
 
 A sors energiái végesek, a feszültség előbb-utóbb utat tör magának:
 
@@ -32,7 +32,7 @@ A sors energiái végesek, a feszültség előbb-utóbb utat tör magának:
 
 ---
 
-### A Pontok Felhasználása
+## A Pontok Felhasználása
 
 | Költség | Hope (A Hős Diadala) | Fear (Az Árnyék Visszavág) |
 | :--- | :--- | :--- |
