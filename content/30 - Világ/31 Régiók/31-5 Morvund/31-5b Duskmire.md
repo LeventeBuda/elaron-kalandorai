@@ -8,18 +8,17 @@ Duskmire a mocsár közepén emelkedő, sötét és baljós metropolisz. A váro
 ### 1. Duskmire (A Belső Vár)
 A város központi erődítménye, Morvun Kán székhelye. Sötét, nehéz kőfalak és vízköpők jellemzik. Itt őrzik a kánság kincstárát és a legfontosabb haditerveket.
 
-### 2. Uul'Zharra (A Sötét Rituálék Negyede)
-Az északi negyed, ahol a mocsári boszorkányok és nekromanták tanyáznak. A levegőben folyamatosan füstölők és sötét főzetek illata száll. Itt találhatók a város legfontosabb templomai és jóslóhelyei.
+### 2. Skrabb'Harn (A Bazár és a Gazdagok Negyede)
+A déli negyed, ahol a kereskedelem zajlik. Itt található a hatalmas piac és a feketepiac, de a negyed felső szintjén kaptak helyet a tehetős kereskedők és a város elitjének kúriái is.
 
-### 3. Ghurr'Mekk (A Kovácsok és Gépészek Negyede)
-A nyugati ipari negyed. Itt készülnek a morvundiak híres, méreggel bevont fegyverei és a mocsári közlekedéshez használt speciális szerkezetek. A negyedet folyamatos kalapácszaj és nehéz füst borítja.
+### 3. Ghurr'Mekk (A Tolvajok és Szegények Negyede)
+A nyugati negyed, az alvilág központja. Itt fészkelnek a tolvajcéhek, a banditák és a szegények. Itt készülnek a morvundiak híres, méreggel bevont fegyverei is.
 
-### 4. Grak'Torr (A Katonai Negyed)
+### 4. Uul'Zharra (A Tudósok és Mágusok Negyede)
+Az északi negyed, a morvundi értelmiség központja. Itt találhatók a város könyvtárai, alkímiai laboratóriumai és a Smaragd Fátyol Rendjének épületei.
+
+### 5. Grak'Torr (A Katonai Negyed)
 A keleti városrész, ahol a kánság elit harcosai állomásoznak. Itt találhatók a hatalmas laktanyák és a kegyetlen kiképzőpályák.
-- **Kalandorház**: A Láp-fenevadhoz címzett Fogadó (The Mud-Beast's Rest). Ez a Mocsárjárók Céhének helyi központja, ahol a legveszélyesebb expedíciókat szervezik.
-
-### 5. Skrabb'Harn (A Bazár és Szegénynegyed)
-A déli, zsúfolt negyed, ahol a kereskedelem zajlik. Itt bármit meg lehet venni a feketepiacon, de a látogatóknak érdemes a zsebükre vigyázni. A házak itt gyakran ingatag cölöpökön állnak.
 
 ## Fontos Helyszínek
 - **A Zöld Köd Kapuja**: A város főbejárata, melyet állandóan mágikus köd véd az illetéktelenektől.
